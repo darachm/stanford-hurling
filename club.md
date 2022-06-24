@@ -1,7 +1,8 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: About the club
+permalink: /club/
+order: 9
 ---
 
 The Stanford hurling team was founded years ago, but had lapsed just as the
