@@ -23,7 +23,8 @@ email: stanfordhurling@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Stanford hurling description
 domain: "darachm.github.io"
-baseurl: "/stanford-hurling/" # the subpath of your site, e.g. /blog
+baseurl: "/stanford-hurling" # for deploy
+#baseurl: "" # for testing locally
 url: "https://darachm.github.io/stanford-hurling" # the base hostname & protocol for your site, e.g. http://example.com
 
 minima:
@@ -32,6 +33,13 @@ minima:
         twitter: 'stanfordhurling'
         facebook: 'stanfordhurling'
         instagram: 'stanfordhurling'
+    date_format: "%Y-%m-%d"
+
+header_pages:
+  - hurling-info.md
+  - info.md
+  - club.md
+  - calendar.md
 
 # Build settings
 #remote_theme: "pages-themes/dinky@v0.2.0"

@@ -2,7 +2,7 @@
 layout: page
 title: About the club
 permalink: /club/
-order: 9
+order: 20
 ---
 
 The Stanford hurling team was founded years ago, but had lapsed just as the
