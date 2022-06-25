@@ -6,14 +6,10 @@ categories: practice news
 ---
 
 Today was the first practice for Stanford hurlers in a while.
-We had a fine mix of postdocs, undergrads, a grad student, and an instructor,
-representing 
+Folks took to it quickly.
 
+It's great to be back out on the pitch
 
-<!-- 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+Hurling was the reason I first set foot on the Stanford campus, and it's great
+to be helping to bring it back. - Darach
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
--->

@@ -4,8 +4,8 @@
 layout: home
 ---
 
-Stanford Hurling Club
+We're a group that aims to share the sport and practice of hurling with the 
+Stanford community. We are currently building up our team with the aim of
+competing, and also sharing the simple fun of just pucking around.
 
-We rep all the peeps
 
-We do hurling, for competition and for the practice of it
