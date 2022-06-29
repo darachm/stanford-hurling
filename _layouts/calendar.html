@@ -13,15 +13,19 @@ layout: default
             eventSources: [
                 { events: 
                     [ // Practices
-                        { title : 'Practice', start : '2022-06-23T17:30:00' },
-                        { title : 'Practice', start : '2022-06-30T17:30:00' },
-                        { title : 'Practice', start : '2022-07-07T17:30:00' },
-                        { title : 'Practice', start : '2022-07-14T17:30:00' },
+                        { title : 'Practice at IM fields', start : '2022-06-23T17:30:00'},
+                        { title : 'Practice at IM fields', start : '2022-06-30T17:45:00' },
+                        { title : 'Practice at IM fields', start : '2022-07-07T17:45:00' },
+                        { title : 'Practice at IM fields', start : '2022-07-14T17:45:00' },
                         ],
                     color: 'blue',
                     textColor: 'yellow'
                     }
                 ],
+            eventClick: function(info) {
+                alert('Event: ' + info.event.title );
+                info.el.style.borderColor = 'red';
+            },
             initialView: 'dayGridMonth'
         });
         calendar.render();
@@ -39,6 +43,20 @@ layout: default
     {{ content }}
   </div>
 
+<p>Here's upcoming trainings, demos, and events. Click to get more info, and
+see below the calendar for maps to the locations.</p>
+
+<h1>Calendar:</h1>
+
     <div id='calendar'></div>
+
+<br/>
+<br/>
+<br/>
+
+<h1>Locations:</h1>
+
+<p> IM fields: </p>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1584.1210404475153!2d-122.15520844175919!3d37.4313855949559!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xd478d7642e4a1d10!2zMzfCsDI1JzUzLjAiTiAxMjLCsDA5JzE0LjgiVw!5e0!3m2!1sen!2sus!4v1656475564814!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 </article>
