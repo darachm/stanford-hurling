@@ -9,6 +9,10 @@ We always want to share this sport with anyone, and we also want to work with
 people to build themselves as players and build us up as a team
 (and beat Cal).
 
+We are recruiting anyone who wants to check it out and/or play and/or compete.
+We play co-ed, so males+females+whomever would like to participate in checking
+it out, training, and competition.
+
 Here are a few ways to check it out:
 
 - If you want to just check it out once, 
@@ -26,4 +30,3 @@ Here are a few ways to check it out:
     very welcome to just drop in (email us for when/where) or train 
     consistently with us. 
 
-Yada yada
