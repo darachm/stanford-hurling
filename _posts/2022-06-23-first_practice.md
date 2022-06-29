@@ -1,15 +1,25 @@
 ---
 layout: post
-title:  "Stanford Hurling - first practice back"
+title:  "Stanford hurling reboot: post-pandemic"
 date:   2022-06-23
-categories: practice news
+categories: practice news history
 ---
 
-Today was the first practice for Stanford hurlers in a while.
-Folks took to it quickly.
+It's been a few years since Stanford hurling met, trained, and played.
+The COVID pandemic was a one-two punch for the club, as the public-health 
+tragedy of incomprehensible magnitude washed over this country.
+Stanford hurling was dormant for several years, as was much of the world.
 
-It's great to be back out on the pitch
+But, in 2022 a few players from St. Joseph's hurling club who worked at Stanford
+sparked a resurgence. With the word going out, club almuni were ready across 
+the campus and across the world to reboot the club, 
+dusting off old training equipment, organizations, listservs, websites, 
+and advice to reboot the club.
 
-Hurling was the reason I first set foot on the Stanford campus, and it's great
-to be helping to bring it back. - Darach
+On this day was the first practice back for Stanford hurlers in a while.
+New-to-hurling folks took to it quickly. While we have a long way to go until
+we can field a full squad and return to national-level competition,
+the deep support from alumni and the Stanford Irish Association will 
+give us the best shot at starting a new wave - and new generation - 
+of hurlers at Stanford.
 
