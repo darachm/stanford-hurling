@@ -1,17 +1,5 @@
 # Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-#
-# If you need help with YAML syntax, here are some quick references for you: 
-# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
-# https://learnxinyminutes.com/docs/yaml/
-#
+
 # Site settings
 # These are used to personalize your new site. If you look in the HTML files,
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
@@ -20,12 +8,14 @@
 
 title: Stanford Hurling
 email: stanfordhurling@example.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Stanford hurling description
+description: #>- # this means to ignore newlines until next item
+  #Follow/subscribe to our accounts to hear the latest and spread the 
+  #frenetic grace of hurling with your friends!
 domain: "darachm.github.io"
-baseurl: "/stanford-hurling" # for deploy
-#baseurl: "" # for testing locally
+#baseurl: "/stanford-hurling" # for deploy
+baseurl: "" # for testing locally
 url: "https://darachm.github.io/stanford-hurling" # the base hostname & protocol for your site, e.g. http://example.com
+author: ''
 
 minima:
     skin: 'solarized'
