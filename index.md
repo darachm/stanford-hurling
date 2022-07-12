@@ -9,10 +9,10 @@ but we also want to share the simple fun of just pucking around with a hurley
 and friends.
 
 See above for 
-[what hurling is](/hurling),
-how to [check it out](/check-it-out),
-our [calendar](/calendar),
-and information/history of [the club](/club-info).
+[what hurling is](hurling),
+how to [check it out](check-it-out),
+our [calendar](calendar),
+and information/history of [the club](club-info).
 
 ![Stanford and Berkeley face of in one of the first collegiate matches](assets/stanford-berkeley-clash.jpg){: width:"100%"}
 
