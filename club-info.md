@@ -19,7 +19,9 @@ by defeating Cal in a best of three series.
 
 The start at Stanford seeded the growth of the collegiate GAA in North America,
 but at Stanford club participation waned as the COVID-19 pandemic approached.
-Now, we aim to return the club to full activity. 
+Stanford Hurling is not an active club right now, 
+but we aim to return the club to full status and resume the
+[winning streak](https://www.gaa.ie/hurling/news/gaa-world-news-stanford-university-win-five-row/).
 
 ![club in 2009](assets/team_stanford_hosted_2009.jpg){: width="300px"}
 ![club in 2012](assets/team_google_hosted_2012.jpg){: width="300px"}
