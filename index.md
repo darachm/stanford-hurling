@@ -2,15 +2,18 @@
 layout: home
 ---
 
-We're a hurling team based at Stanford University.
-We train together to compete against our local rivals Berkeley and challenge
-matches with the local GAA teams.
+We're working to promote, train, and organize the sport of hurling
+among the Stanford University community.
+We aim to return to collegiate competition (with Berkelely), 
+but we also want to share the simple fun of just pucking around with a hurley
+and friends.
 
-We aim to share the practice of hurling with our community.
-We are building up our team with the aim of competing, but we also
-sharing the simple fun of just pucking around.
+See above for 
+[what hurling is](/hurling),
+how to [check it out](/check-it-out),
+our [calendar](/calendar),
+and information/history of [the club](/club-info).
 
 Contact us if you're interested in trying it out, watching a practice, or 
-even watching a game.
-
+even watching a game:
 
