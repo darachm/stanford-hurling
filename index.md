@@ -10,9 +10,9 @@ So, whether it's to play competitively, get a great workout,
 or just hit around and make some new friends while learning more 
 about Irish culture, join us at our next event. 
 
-For more information on hurling and to rules for how to play,
+For more information on hurling and rules for how to play,
 [click here](hurling).
-See more about the Stanford Hurling Club [here](club-info).
+See the history of the Stanford Hurling Club [here](club-info).
 Check out [the schedule](calendar) for demonstrations, trainings, and games
 at Stanford and the local area. See you on the pitch!
 
