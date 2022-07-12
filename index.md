@@ -14,6 +14,8 @@ how to [check it out](/check-it-out),
 our [calendar](/calendar),
 and information/history of [the club](/club-info).
 
+![Stanford and Berkeley face of in one of the first collegiate matches](assets/stanford-berkeley-clash.jpg){: width:"100%"}
+
 Contact us if you're interested in trying it out, watching a practice, or 
 even watching a game:
 
