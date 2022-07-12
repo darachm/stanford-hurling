@@ -4,7 +4,7 @@ layout: home
 
 We're working to promote, train, and organize the sport of hurling
 among the Stanford University community.
-We aim to return to collegiate competition (with Berkelely), 
+We aim to return to club status at Stanford and to inter-collegiate competition,
 but we also want to share the simple fun of just pucking around with a hurley
 and friends.
 
