@@ -26,10 +26,15 @@ Here are a few ways:
     If you can **already lift and puck the ball**, 
     we can help you refine your fitness and skills and we hope you can
     also represent the team in future competitions (but no commitment).
+    If you **already have athletic experience** from other field
+    sports like lacrosse, field hockey, soccer, baseball, rugby, aussie-rules, 
+    or others, you'll find the the skills will come quickly and we think
+    you'll be able to get to regional and national -level competition 
+    fairly quickly.
 
     **Players from other teams** 
-    (for example, St. Joes or *even Cal I suppose*) are 
-    *very welcome* to just drop in or even train consistently with us. 
+    (for example, St. Joes or *even Cal*) are 
+    **very welcome** to just drop in or even train consistently with us. 
 
     If you want to **just watch** that's great, and if you want to
     **give it a try** we recommend wearing shoes and pants you can 
