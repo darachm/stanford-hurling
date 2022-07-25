@@ -51,7 +51,7 @@ See you on the pitch!
     alt="Stanford and Berkeley face of in one of the first collegiate matches"
     />
 
-Here's some more examples of hurling **(mouse over for animation)**:
+Here's some more examples of hurling **(mouse over or tap to play GIF)**:
 
 <div align="center">
 
