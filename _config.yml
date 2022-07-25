@@ -21,7 +21,8 @@ minima:
     skin: 'solarized'
     social_links:
         twitter: 'stanfordhurling'
-        #facebook: 'stanfordhurling'
+        facebook: 'groups/stanfordhurling'
+        facebook2: 'South-Bay-Gaelic-Sports-100337136093794'
         #instagram: 'stanfordhurling'
     date_format: "%Y-%m-%d"
 
