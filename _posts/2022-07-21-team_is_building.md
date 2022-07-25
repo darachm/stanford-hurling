@@ -9,7 +9,7 @@ We've been holding regular practices on Thursdays, and have enough people
 turning out for the last two to run small 4-a-side games. 
 We need more helmets, we're almost out!
 
-![practice game]({{ baseurl }}/assets/220721_practice_game.gif)
+![practice game](assets/220721_practice_game.gif)
 
 It's been great to get a mix of undergrads, grad students, postdocs, staff,
 and neighbors out, including some from the local clubs to show
