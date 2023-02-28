@@ -37,8 +37,6 @@ to just hit it around and make some new friends,
 or to learning more about Irish culture and the fastest game on grass, 
 join us at our next event. 
 
-[^disclaimer]: there was a Stanford Hurling student club in the past 
-    and it would be sure good if we can restart one!
 
 Are you near Stanford and want to learn more?
 Email us right now at 
@@ -52,9 +50,6 @@ For more information on hurling and rules for how to play,
 See the history of the Stanford Hurling Club[^disclaimer2] [here](club-info).
 See you on the pitch!
 
-[^disclaimer2]: and again, this is not the Stanford Hurling Club, this is
-    an organization that seeks to promote the founding again of the old
-    Stanford Hurling Club
 
 <img src="assets/stanford-berkeley-clash.jpg" 
     style="display:block;margin:auto;width:80%"
@@ -80,3 +75,9 @@ Here's some more examples of hurling **(mouse over or tap to play GIF)**:
 </div>
 &nbsp;
 
+[^disclaimer]: there was a Stanford Hurling student club in the past 
+    and it would be sure good if we can restart one!
+
+[^disclaimer2]: and again, this is not the Stanford Hurling Club, this is
+    an organization that seeks to promote the founding again of the old
+    Stanford Hurling Club
