@@ -25,14 +25,20 @@ layout: home
 
 </script>
 
-The purpose of the Stanford Hurling Organization is to promote the Irish sport
-of hurling among the Stanford University community. 
-Inter-collegiate competition is our main goal for training and events,
+The purpose of this organization seeking to promote hurling at Stanford
+is to promote the Irish sport of hurling among the Stanford University 
+community. 
+This is not a student club or officially affiliated or representing the
+Stanford University[^disclaimer].
+Inter-collegiate competition between clubs is our eventual goal,
 but we also want to promote comradery and just having fun!
 So, whether it's to play competitively, 
 to just hit it around and make some new friends,
 or to learning more about Irish culture and the fastest game on grass, 
 join us at our next event. 
+
+[^disclaimer]: there was a Stanford Hurling student club in the past 
+    and it would be sure good if we can restart one!
 
 Are you near Stanford and want to learn more?
 Email us right now at 
@@ -43,8 +49,12 @@ Check out [the schedule](calendar) for demonstrations, trainings, and games
 at Stanford and the local area. 
 For more information on hurling and rules for how to play,
 [click here](hurling).
-See the history of the Stanford Hurling Club [here](club-info).
+See the history of the Stanford Hurling Club[^disclaimer2] [here](club-info).
 See you on the pitch!
+
+[^disclaimer2]: and again, this is not the Stanford Hurling Club, this is
+    an organization that seeks to promote the founding again of the old
+    Stanford Hurling Club
 
 <img src="assets/stanford-berkeley-clash.jpg" 
     style="display:block;margin:auto;width:80%"

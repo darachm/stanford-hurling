@@ -6,14 +6,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Hurling at Stanford
+title: Promoting Hurling at Stanford
 email: hurling.stanford@gmail.com
 description: #>- # this means to ignore newlines until next item
   #Follow/subscribe to our accounts to hear the latest and spread the 
   #frenetic grace of hurling with your friends!
 domain: "darachm.github.io"
-baseurl: "/stanford-hurling" # for deploy
-#baseurl: "" # for testing locally
+#baseurl: "/stanford-hurling" # for deploy
+baseurl: "" # for testing locally
 url: "https://darachm.github.io/stanford-hurling" # the base hostname & protocol for your site, e.g. http://example.com
 author: ''
 
