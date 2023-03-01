@@ -29,7 +29,7 @@ The purpose of this organization seeking to promote hurling at Stanford
 is to promote the Irish sport of hurling among the Stanford University 
 community. 
 This is not a student club or officially affiliated or representing the
-Stanford University.
+Stanford University[^disclaimer].
 Inter-collegiate competition between clubs is our eventual goal,
 but we also want to promote comradery and just having fun!
 So, whether it's to play competitively, 
@@ -47,7 +47,7 @@ Check out [the schedule](calendar) for demonstrations, trainings, and games
 at Stanford and the local area. 
 For more information on hurling and rules for how to play,
 [click here](hurling).
-See the history of the Stanford Hurling Club [here](club-info).
+See the history of the Stanford Hurling Club[^disclaimer2] [here](club-info).
 See you on the pitch!
 
 
@@ -75,3 +75,9 @@ Here's some more examples of hurling **(mouse over or tap to play GIF)**:
 </div>
 &nbsp;
 
+[^disclaimer]: there was a Stanford Hurling student club in the past 
+    and it would be sure good if we can restart one!
+
+[^disclaimer2]: and again, this is not the Stanford Hurling Club, this is
+    an organization that seeks to promote the founding again of the old
+    Stanford Hurling Club
