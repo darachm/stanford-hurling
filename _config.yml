@@ -11,9 +11,10 @@ email: hurling.stanford@gmail.com
 description: #>- # this means to ignore newlines until next item
   #Follow/subscribe to our accounts to hear the latest and spread the 
   #frenetic grace of hurling with your friends!
+website: "https://darachm.github.io"
 domain: "darachm.github.io"
-#baseurl: "/stanford-hurling" # for deploy
-baseurl: "" # for testing locally
+baseurl: "/stanford-hurling" # for deploy
+#baseurl: "" # for testing locally
 url: "https://darachm.github.io/stanford-hurling" # the base hostname & protocol for your site, e.g. http://example.com
 author: ''
 
